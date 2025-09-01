@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+
+# OS generated files
+*.log
+.DS_Store
+
+# Data (if sensitive or large)
+data/
+
+# Temporary or dev files
+*.txt
